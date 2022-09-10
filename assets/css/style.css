@@ -1,0 +1,11 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    outline: none;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
